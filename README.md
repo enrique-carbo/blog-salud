@@ -1,18 +1,3 @@
-<div align="center">
-
-<img src="public/project.png" alt="Screenshot" />
-
-<hr/>
-
-<h3 align="center">
- ⭐ Leave a star if you like this project! ⭐️
-</h3>
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdanielcgilibert%2Fblog-template)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielcgilibert/blog-template)
-
-</div>
-
 ## 📌 Table Of Contents
 
 1. [Demo](#-Demo)
@@ -81,13 +66,6 @@ The documentation for Tina CMS can be found [here](https://tina.io/docs/)
 - ✅ Pagination
 - ✅ ViewTransition (new)
 
-## 🛣️ Roadmap
-
-- ❌ Add post author
-- ❌ Add customization with colors
-- ❌ Add filters for reading time, date...
-- ❌ More sharing options
-- ❌ Internationalization (i18n)
 
 ## ⚙️ Stack
 
@@ -206,7 +184,7 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run sync`         | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
 | `pnpm run lint`         | Lint with ESLint                                                                                                                 |
 
-## 👋 Contributors
+## 👋 Contributors to Blog Template
 
 <a href="https://github.com/danielcgilibert/blog-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=danielcgilibert/blog-template" />
