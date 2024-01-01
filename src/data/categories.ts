@@ -1,9 +1,10 @@
 // List of categories for blog posts
 export const CATEGORIES = [
-	'Dermatologia',
+	'Dermatología',
 	'Fitomedicina',
 	'General',
 	'Cardiología',
 	'eSalud',
-	'Nutrición'
+	'Nutrición',
+	'Neurología'
 ] as const
