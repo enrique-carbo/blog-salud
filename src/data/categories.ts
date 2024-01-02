@@ -6,5 +6,6 @@ export const CATEGORIES = [
 	'Cardiología',
 	'eSalud',
 	'Nutrición',
-	'Neurología'
+	'Neurología',
+	'Oncología',
 ] as const

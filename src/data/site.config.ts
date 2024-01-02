@@ -14,6 +14,6 @@ export const siteConfig: SiteConfig = {
 	description: 'Blog dedicado a noticias de salud. No es consejo médico', // Description to display in the meta tags
 	lang: 'es-AR',
 	ogLocale: 'es_AR',
-	shareMessage: 'Coparte este post', // Message to share a post on social media
+	shareMessage: 'Comparte este post', // Message to share a post on social media
 	paginationSize: 6 // Number of posts per page
 }
