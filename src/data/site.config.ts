@@ -11,7 +11,7 @@ interface SiteConfig {
 export const siteConfig: SiteConfig = {
 	author: 'Enrique Carbó', // Site author
 	title: 'Blog de Salud', // Site title.
-	description: 'Blog dedicado a noticias de salud. No es consejo médico', // Description to display in the meta tags
+	description: 'Blog dedicado a noticias de salud. Actualizaciones en Medicina General', // Description to display in the meta tags
 	lang: 'es-AR',
 	ogLocale: 'es_AR',
 	shareMessage: 'Comparte este post', // Message to share a post on social media
