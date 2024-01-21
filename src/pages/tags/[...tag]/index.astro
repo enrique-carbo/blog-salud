@@ -4,6 +4,10 @@ import ListPosts from '@/components/ListPosts'
 import TitlePage from '@/components/TitlePage'
 import { getTags, getPostByTag } from '@/utils'
 
+type PageProps = {
+  tag: string;
+};
+
 export async function getStaticPaths() {
 	const tags = await getTags()
 
@@ -13,7 +17,7 @@ export async function getStaticPaths() {
 	}))
 }
 
-const { tag } = Astro.props
+const { tag } = Astro.props as PageProps
 
 const posts = await getPostByTag(tag)
 ---
