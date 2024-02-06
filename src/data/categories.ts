@@ -9,4 +9,5 @@ export const CATEGORIES = [
 	'Neurología',
 	'Oncología',
 	'Neumonología',
+	'Bioquímica'
 ] as const
